@@ -45,4 +45,8 @@ Unlike standard notebooks that lose local variable history when the kernel resta
 # How to Run
 1. Ensure you have <code>pandas</code>, <code>matplotlib</code>, and <code>scikit-learn</code> installed.
 2. Run <code>EDA.ipynb</code> to view the initial data distribution and feature selection.
+<<<<<<< HEAD
 3. Run <code>Modelling.ipynb</code> to execute the regression functions and generate the performance logs in <code>multiple_linear_regression.txt</code>.
+=======
+3. Run <code>Modelling.ipynb</code> to execute the regression functions and generate the performance logs in <code>multiple_linear_regression.txt</code>.
+>>>>>>> a01f432 (Updated local README)
