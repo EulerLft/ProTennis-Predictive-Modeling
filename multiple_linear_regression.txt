@@ -1,0 +1,14 @@
+Winnings vs. ['BreakPointsOpportunities', 'ReturnGamesPlayed', 'ServiceGamesPlayed', 'BreakPointsFaced', 'DoubleFaults']
+------------------------------------------------------------------------------------------------------------------------
+Model R-Squared (test): 0.8306
+Model R-Squared (train): 0.8439
+Residual mean: -1634.5140
+------------------------------------------------------------------------------------------------------------------------
+BreakPointsOpportunities: 786.4908
+ReturnGamesPlayed: -239.0430
+ServiceGamesPlayed: 1171.2920
+BreakPointsFaced: -766.3152
+DoubleFaults: 372.6580
+------------------------------------------------------------------------------------------------------------------------
+
+
